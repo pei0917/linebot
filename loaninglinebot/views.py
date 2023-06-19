@@ -50,7 +50,7 @@ def callback(request):
                 
             # else:
             #     #print(f"The key '{key}' does not exist in the data.")
-                user={username: {"state":"A","111111":{"money":"none"}}}
+                user={username: {"state":"Z","111111":{"money":"none"}}}
                 db.update(user)
             if isinstance(event, MessageEvent) and event.message.text not in mylist:  # 如果有訊息事件
                 # print("11111",event.message.text,db.child(username).child("state").get().val())
