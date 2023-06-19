@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-5q@*f51(0y4jsq2m9=3vt+lv9l0*=m7lhfzt*ua1=e%f8+vwnu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 # mylinebot-4fbee.firebaseapp.com
-ALLOWED_HOSTS = ['mylinebot-4fbee.firebaseapp.com','mylinebot-4fbee.web.app','127.0.0.1','loaning-linebot.onrender.com'] # ngrok http 8000
+ALLOWED_HOSTS = ['mylinebot-4fbee.firebaseapp.com','mylinebot-4fbee.web.app','127.0.0.1','loaning-linebot.onrender.com','8ca8-1-172-199-245.jp.ngrok.io'] # ngrok http 8000
 LINE_CHANNEL_ACCESS_TOKEN = 'DkzlNA6NAW8+r4tgvfn5MNMfeWgnFNoViZ/+Idn3TDZAOnNKo50UFlkSRzk4s7htzoNkVNa5KyjZBlMl5Y1w5fNgpEYNUs6k/5ClOOa9IePlg8qkzL5F/BALQKS1woAHSICQJUXtz8ZRaF5UHA6DeQdB04t89/1O/w1cDnyilFU='
 LINE_CHANNEL_SECRET = '51aa3b561afb69e06bacad0a586c5369'
 
